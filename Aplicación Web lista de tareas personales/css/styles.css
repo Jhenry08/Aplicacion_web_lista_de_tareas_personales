@@ -1,0 +1,21 @@
+
+body {
+    background-color: #f8f9fa;
+  }
+  
+  .navbar {
+    margin-bottom: 20px;
+  }
+  
+  .card {
+    min-height: 250px;
+  }
+  
+  .btn-complete {
+    margin-right: 5px;
+  }
+  
+  .bg-light {
+    background-color: #e9ecef !important;
+  }
+  
